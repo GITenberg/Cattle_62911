@@ -1,0 +1,35 @@
+_repo: Cattle_62911
+_version: 0.0.1
+contributor:
+  illustrator:
+    agent_name: Gage, George W.
+    alias: Gage, G. W.
+    birthdate: 1887
+    deathdate: 1957
+    gutenberg_agent_id: '32544'
+    url: http://www.gutenberg.org/2009/agents/32544
+creator:
+  author:
+    agent_name: Watanna, Onoto
+    aliases:
+    - Reeve, Winnifred Eaton
+    - Babcock, Winnifred Eaton
+    - Eaton, Winnifred
+    birthdate: 1879
+    deathdate: 1954
+    gutenberg_agent_id: '49587'
+    url: http://www.gutenberg.org/2009/agents/49587
+    wikipedia: https://en.wikipedia.org/wiki/Winnifred_Eaton_(writer)
+description: ''
+gutenberg_issued: '2020-08-12'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '62911'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- GITenberg
+title: Cattle
+url: http://www.gutenberg.org/ebooks/62911
